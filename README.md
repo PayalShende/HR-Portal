@@ -6,7 +6,7 @@ HR Management system app to manage your company employees.
 This project is being created with React JS and Firebase database.
 Includes Firebase authentification and Cloud Functions.
 
-![alt text](<https://github.com/PayalShende/HR-Portal/Gifs/blob/master/Dashboard%20(Custom).jpg> "Dashbpard")
+![alt text](<https://github.com/PayalShende/Gifs/blob/master/Dashboard%20(Custom).jpg> "Dashbpard")
 
 ## Status
 
@@ -37,7 +37,7 @@ Project has been archived, I cannot provide any assitance.
 
 ## Screenshots
 
-![alt text](<https://github.com/PayalShende/HR-Portal/Gifs/blob/master/Assocaites%20(Custom).jpg> "Associates")
-![alt text](<https://github.com/PayalShende/HR-Portal/Gifs/blob/master/Associate%20profile%20(Custom).jpg> "Associate")
-![alt text](<https://github.com/PayalShende/HR-Portal/Gifs/blob/master/Thanks%20(Custom).jpg> "Thanks")
-![alt text](<https://github.com/PayalShende/HR-Portal/Gifs/blob/master/Task%20(Custom).jpg> "Tasks")
+![alt text](<https://github.com/PayalShende/Gifs/blob/master/Assocaites%20(Custom).jpg> "Associates")
+![alt text](<https://github.com/PayalShende/Gifs/blob/master/Associate%20profile%20(Custom).jpg> "Associate")
+![alt text](<https://github.com/PayalShende/Gifs/blob/master/Thanks%20(Custom).jpg> "Thanks")
+![alt text](<https://github.com/PayalShende/Gifs/blob/master/Task%20(Custom).jpg> "Tasks")
